@@ -1,0 +1,24 @@
+{
+  "name": "circle_chase",
+  "version": "1.0.0",
+  "description": "Get to the circle before the color depletes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcogallen/circle_chase.git"
+  },
+  "keywords": [
+    "games",
+    "code",
+    "fun"
+  ],
+  "author": "Marco Gallen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcogallen/circle_chase/issues"
+  },
+  "homepage": "https://github.com/marcogallen/circle_chase#readme"
+}
